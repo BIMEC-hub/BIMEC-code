@@ -1,2 +1,5 @@
-# paper-Echo-Chamber-Aware-Budgeted-Influence-Maximization-on-Social-Media-code
-code for BIMEC
+# BIMEC-code
+code for Echo Chamber-Aware Budgeted Influence Maximization on Social Media (BIMEC)
+
+# Overview
+
