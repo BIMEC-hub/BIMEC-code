@@ -38,7 +38,7 @@ README.md
 
 # Usage
 To run this program, please follow the steps below:
-
+first `cd BIMEC/BIMEC_code`
 **1. Obtain the dataset**
 Please download the datasets from the SNAP website and place them in the Datasets/ directory.
 
